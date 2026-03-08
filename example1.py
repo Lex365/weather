@@ -19,3 +19,4 @@ plt.title("Covid 19 numbers on 6/30/2020")
 #calls the graph and shows it 
 plt.show()
 
+print("this virgen two")
